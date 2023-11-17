@@ -15,7 +15,7 @@
 ## Installation
 
 ```bash
-go get github.com/yourusername/stun
+go get github.com/C-o-m-o-n/stun
 
 ```
 
@@ -25,7 +25,7 @@ go get github.com/yourusername/stun
 package main
 
 import (
-	"github.com/yourusername/stun"
+	"github.com/C-o-m-o-n/stun"
 )
 
 func main() {
