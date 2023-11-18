@@ -86,7 +86,7 @@ Contributions are welcome! Please feel free to open issues or pull requests.
 - Learn how to push code to a github repo from [here](https://docs.github.com/en/get-started/using-git/pushing-commits-to-a-remote-repository)
 
 > 4) Next, open a pull request
-- Learm=n more about creating pull requests from [here](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request)
+- Learn more about creating pull requests from [here](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request)
   
 # NOTE: Don't be afriad to push your changes even if you think they maight have bugs. We will debug them together
 
