@@ -10,7 +10,6 @@
 - **Basic Email Sending:** Send plain text emails easily.
 - **Environment Variable Support:** Securely read email credentials from environment variables.
 - **Configurable SMTP Server:** Easily configure the SMTP server details.
-- _[You can add more features here as you enhance the library]_
 
 ## Installation
 
